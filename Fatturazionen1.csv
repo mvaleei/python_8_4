@@ -1,0 +1,22 @@
+﻿nome cliente,data,importo,numero fattura,citta
+Rossi snc,05/05/2020,50000,1,pordenone
+Verdi srl,10/10/2020,15000,2,firenze
+Mario Rossi,06/04/2021,4900,3,napoli
+Giorgio Verdi,04/10/2021,16400,4,bari
+Carlo Albertelli,10/01/2021,4890,5,palermo
+Rossi snc,05/05/2020,4890,6,pordenone
+Verdi srl,10/10/2020,8715,7,firenze
+Mario Rossi,06/04/2021,17950,8,napoli
+Giorgio Verdi,04/10/2021,8705,9,bari
+Carlo Albertelli,10/01/2021,20500,10,firenze
+Rossi snc,05/05/2020,64000,11,firenze
+Verdi srl,10/10/2020,8690,12,napoli
+Mario Rossi,06/04/2021,7700,13,palermo
+Giorgio Verdi,04/10/2021,8680,14,pordenone
+Rossi snc,05/05/2020,9660,15,firenze
+Verdi srl,10/10/2020,10640,16,napoli
+Mario Rossi,06/04/2021,11620,17,palermo
+Giorgio Verdi,04/10/2021,12600,18,pordenone
+Rossi snc,05/05/2020,17950,19,firenze
+Verdi srl,10/10/2020,8705,20,napoli
+Mario Rossi,06/04/2021,6700,21,palermo
